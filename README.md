@@ -152,7 +152,7 @@ Produza apenas o relatório final.
 
 ---
 
-# Prompt de Tratamento de Erros
+# Prompt de Validação de Currículos.
 
 Você é um validador de currículos.
 
